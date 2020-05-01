@@ -1,0 +1,8 @@
+*
+
+!CustomArmadaCar
+!.dockerignore
+!Dockerfile
+!README.md
+!.gitignore
+!.gitlab-ci.yml
