@@ -1,0 +1,50 @@
+#imageDiv{
+  margin-top: 120px   
+}
+
+#formLogo{
+  max-width:100%;
+  display: block;
+}
+
+#kc-header {
+  padding-left: 15px;
+  padding-right: 15px;
+  float: none;
+  text-align: left;
+}
+
+#kc-header-wrapper {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 20px 60px 0 0;
+  color: #72767b;
+  letter-spacing: 0;
+}
+
+div.kc-logo-text {
+  margin: 0;
+  width: 150px;
+  height: 32px;
+  background-size: 100%;
+}
+
+#kc-page-title{
+  text-align: center;
+}
+
+@media (min-width: 1200px) {
+  #kc-content{
+    margin-top: 130px
+  }	
+}
+
+@media (max-width: 1200px) {
+  #kc-content{
+    margin-top: 50px
+  }	
+}
+
+
+
+
